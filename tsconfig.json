@@ -21,7 +21,7 @@
         "!./node_modules/**/*"
     ],
     "files": [
-        "./src/Calculator.ts",
+        "./test/Calculator.ts",
         "./test/test.ts",
         "./typings/mocha/mocha.d.ts",
         "./typings/node/node.d.ts",
