@@ -1,0 +1,22 @@
+{
+  "name": "typescript-require-broken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ihsw/typescript-require-broken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihsw/typescript-require-broken/issues"
+  },
+  "homepage": "https://github.com/ihsw/typescript-require-broken",
+  "dependencies": {
+    "typescript-require": "^0.2.9"
+  }
+}
